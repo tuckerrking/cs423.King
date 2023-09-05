@@ -1,0 +1,15 @@
+/Users/tuckerking/Documents/GitHub/cs423.King/lab02/EightQueens/EightQueens/bin/Debug/net6.0/EightQueens
+/Users/tuckerking/Documents/GitHub/cs423.King/lab02/EightQueens/EightQueens/bin/Debug/net6.0/EightQueens.deps.json
+/Users/tuckerking/Documents/GitHub/cs423.King/lab02/EightQueens/EightQueens/bin/Debug/net6.0/EightQueens.runtimeconfig.json
+/Users/tuckerking/Documents/GitHub/cs423.King/lab02/EightQueens/EightQueens/bin/Debug/net6.0/EightQueens.dll
+/Users/tuckerking/Documents/GitHub/cs423.King/lab02/EightQueens/EightQueens/bin/Debug/net6.0/EightQueens.pdb
+/Users/tuckerking/Documents/GitHub/cs423.King/lab02/EightQueens/EightQueens/obj/Debug/net6.0/EightQueens.csproj.AssemblyReference.cache
+/Users/tuckerking/Documents/GitHub/cs423.King/lab02/EightQueens/EightQueens/obj/Debug/net6.0/EightQueens.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tuckerking/Documents/GitHub/cs423.King/lab02/EightQueens/EightQueens/obj/Debug/net6.0/EightQueens.AssemblyInfoInputs.cache
+/Users/tuckerking/Documents/GitHub/cs423.King/lab02/EightQueens/EightQueens/obj/Debug/net6.0/EightQueens.AssemblyInfo.cs
+/Users/tuckerking/Documents/GitHub/cs423.King/lab02/EightQueens/EightQueens/obj/Debug/net6.0/EightQueens.csproj.CoreCompileInputs.cache
+/Users/tuckerking/Documents/GitHub/cs423.King/lab02/EightQueens/EightQueens/obj/Debug/net6.0/EightQueens.dll
+/Users/tuckerking/Documents/GitHub/cs423.King/lab02/EightQueens/EightQueens/obj/Debug/net6.0/refint/EightQueens.dll
+/Users/tuckerking/Documents/GitHub/cs423.King/lab02/EightQueens/EightQueens/obj/Debug/net6.0/EightQueens.pdb
+/Users/tuckerking/Documents/GitHub/cs423.King/lab02/EightQueens/EightQueens/obj/Debug/net6.0/EightQueens.genruntimeconfig.cache
+/Users/tuckerking/Documents/GitHub/cs423.King/lab02/EightQueens/EightQueens/obj/Debug/net6.0/ref/EightQueens.dll
