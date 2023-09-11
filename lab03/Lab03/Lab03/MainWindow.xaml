@@ -7,14 +7,10 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Viewbox>
-        
+        <StackPanel Orientation="Horizontal">
+            <Button x:Name="btnStart" Content="StartAnimation" Click="btnStart_Click"/>
+            <TextBlock x:Name="tbLabel" Text="Binary Tree" HorizontalAlignment="Center"/>
+            <Canvas x:Name="Canvas1" Height="300" Width="300" Margin="20" Background="White"/>
+        </StackPanel>
     </Viewbox>
-    
-    <StackPanel>
-        
-    </StackPanel>
-
-    <StackPanel>
-    
-    </StackPanel>
 </Window>
