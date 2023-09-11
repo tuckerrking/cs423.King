@@ -29,7 +29,7 @@ namespace Lab03
             InitializeComponent();
         }
 
-        private async void btnStart_Click(object sender, RoutedEventArgs e)
+        private void BtnStart_Click(object sender, RoutedEventArgs e)
         {
             Canvas1.Children.Clear();
             tbLabel.Text = "";
